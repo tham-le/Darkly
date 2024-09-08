@@ -16,6 +16,11 @@ Finally, the scripts checks if the **name** variable is **main**.
 This checks if the script is being run directly (not imported) and calls the
 brute force function.
 
+Run the script using the Python interpreter:
+```
+python3 get_password.py
+```
+
 ## Attack mechanism
 
 1. **Target**: the script targets a web application at IP address 192.168.56.3.
