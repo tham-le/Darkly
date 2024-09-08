@@ -4,7 +4,7 @@ Location: ***http://192.168.56.3/index.php?page=survey***
 
 ## Description:
 
-The main issue stems from the ability to modify the values of the select dropdown through clent-side manipulation.
+The main issue stems from the ability to modify the values of the select dropdown through client-side manipulation.
 
 ```
 <select name="valeur" onchange="javascript:this.form.submit();">
