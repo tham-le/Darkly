@@ -1,6 +1,6 @@
 # Hidden files vulnerability report
 
-Location ***http://192.168.56.3/.hidden/***
+### Location ***http://192.168.56.3/.hidden/***
 
 ## Description
 

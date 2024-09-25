@@ -1,6 +1,6 @@
 # Open redirect vulnerability report
 
-Location ***http://192.168.56.3/index.php?page=redirect&site=facebook***
+### Location ***http://192.168.56.3/index.php?page=redirect&site=facebook***
 
 ## Description
 

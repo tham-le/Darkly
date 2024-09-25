@@ -1,6 +1,6 @@
 # Cookies I_am_admin vulnerability report
 
-Location: client-side Application/Storage/Cookies
+### Location: client-side Application/Storage/Cookies
 
 ## Description:
 

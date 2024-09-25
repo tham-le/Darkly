@@ -1,6 +1,6 @@
 # Survey page vulnerability report
 
-Location: ***http://192.168.56.3/index.php?page=survey***
+### Location: ***http://192.168.56.3/index.php?page=survey***
 
 ## Description:
 
