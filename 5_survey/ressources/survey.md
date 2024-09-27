@@ -21,7 +21,7 @@ It potentially affects survey results or database entries and triggers unexpecte
 
 ## Recommendations:
 
-1. Impliment server-side validation to ensure only valid values within the expected range are accepted.
+1. Implement server-side validation to ensure only valid values within the expected range are accepted.
 
 2. Add client-side JavaScript validation of input before submission.
 

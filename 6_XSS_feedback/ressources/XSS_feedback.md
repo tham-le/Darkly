@@ -25,8 +25,8 @@ An attacker could steal session cookies or tokens. Sensitive information could b
 
 ## Recommendations:
 
-1. The simpliest way to eliminate XSS breaches is to pass all external data through a filter to remove dangerous keywords, for exemple, the ```<scrpt>``` tag, JavaScript commands, CSS styles, and other dangerous HTML elements.
-In some casses, a filter could even eliminate all special characters.
+1. The simplest way to eliminate XSS breaches is to pass all external data through a filter to remove dangerous keywords, for example, the ```<script>``` tag, JavaScript commands, CSS styles, and other dangerous HTML elements.
+In some cases, a filter could even eliminate all special characters.
 
 2. All variables in a web application needs to be protected.
 

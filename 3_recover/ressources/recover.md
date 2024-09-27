@@ -12,4 +12,4 @@ The recovery page contains a hidden form input with the _hardcoded_ webmaster's 
 
 1. Remove hardcoded sensitive information from the client-side code. **_Store_ sensitive information securely on the _server-side_ and _retrieve_ it dynamically when needed**.
 
-2. Impliment server-side validation. Develop robust server-side validation for all form submissions. **_Sanitize_ and _validate_ all user inputs before processing**.
+2. Implement server-side validation. Develop robust server-side validation for all form submissions. **_Sanitize_ and _validate_ all user inputs before processing**.

@@ -45,10 +45,10 @@ parsing to detect successful logins.
 
 ## Recommendations:
 
-1. Impliment _strong_ password policies and ***multi-factor authentication***.
+1. Implement _strong_ password policies and ***multi-factor authentication***.
 
 2. Monitor of unsuccessful login attempts.
 
-3. Impliment proper HTTP status codes for authentication failures(e.g., _401 Unauthorized_).
+3. Implement proper HTTP status codes for authentication failures(e.g., _401 Unauthorized_).
 
 4. Using ***CAPTCHA*** challenges after several failed login attempts.

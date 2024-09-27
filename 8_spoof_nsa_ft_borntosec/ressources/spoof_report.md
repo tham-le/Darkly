@@ -49,10 +49,10 @@ Inspecting the result we can find a **Flag**.
 
 ## Recommendations:
 
-1. **Server-side validation**: impliment strict validation of all input parameters on the server-side, regardless of what the client sends.
+1. **Server-side validation**: implement strict validation of all input parameters on the server-side, regardless of what the client sends.
 
-2. Impliment HTTPS and SSH for web communications.
+2. Implement HTTPS and SSH for web communications.
 
 3. Use multi-factor authentication.
 
-4. Impliment solutions for detecting DNS spoofing, IP spoofing or ARP spoofing: Wireshark, Snort, Nmap
+4. Implement solutions for detecting DNS spoofing, IP spoofing or ARP spoofing: Wireshark, Snort, Nmap

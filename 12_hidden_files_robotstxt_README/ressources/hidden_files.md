@@ -65,7 +65,7 @@ We need to make _web scraping_ to extract contents of all README files found in 
 
 To avoid exposing sensitive data, there are several steps you can take:
 
-1. Configure your web server to deny access to dotfiles. For exemple, for **Nginx** you can add this to your server block:
+1. Configure your web server to deny access to dotfiles. For example, for **Nginx** you can add this to your server block:
 ```
 location ~/\. {
     deny all;

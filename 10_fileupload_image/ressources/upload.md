@@ -35,7 +35,7 @@ We developed a _custom/fake_ form-data to match the structure of the legitimate 
 
 ## Recommendations:
 
-1. Impliment input _validation_ and _sanitization_.
+1. Implement input _validation_ and _sanitization_.
 
 2. Create a _whitelist_ of allowed file types/extensions.
 

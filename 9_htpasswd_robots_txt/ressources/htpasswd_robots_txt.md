@@ -11,9 +11,9 @@
 
 ## Description
 
-The ```robots.txt``` file serves as an initial checkpoint for search engine bots when they arrive at the website, providing them with instaructions about which URLs they are prohibited from visiting.
+The ```robots.txt``` file serves as an initial checkpoint for search engine bots when they arrive at the website, providing them with instructions about which URLs they are prohibited from visiting.
 
-It is a simple text file that is uploaded to the root of the domain. It serves as the loacation that search engine bots and other spiders including AI/LLM crawlers automatically visit to check for specific rules about they _may_ or _may not_ crawl.
+It is a simple text file that is uploaded to the root of the domain. It serves as the location that search engine bots and other spiders including AI/LLM crawlers automatically visit to check for specific rules about they _may_ or _may not_ crawl.
 
 If we visit our file at the URL:
 
@@ -40,7 +40,7 @@ There is ```htpasswd``` file that contains the line with root user credentials:
 root:437394baff5aa33daa618be47b75cb49
 ```
 
-Now when we know the credentials we can test to access to wp-amdin user profile via _"unsecured admin panel"_. The site has a security risk called an _"exposed administrative interface"_.
+Now when we know the credentials we can test to access to wp-admin user profile via _"unsecured admin panel"_. The site has a security risk called an _"exposed administrative interface"_.
 
 We decrypted the password from Md5: qwerty123@.
 
@@ -58,7 +58,7 @@ and we got the flag.
 
 3. Use strong passwords, 2FA
 
-4. Restrict access to the admin panel by IP address or impliment a VPN requirement.
+4. Restrict access to the admin panel by IP address or implement a VPN requirement.
 
 5. Password protection is often better than robots.txt for truly sensitive content.
 

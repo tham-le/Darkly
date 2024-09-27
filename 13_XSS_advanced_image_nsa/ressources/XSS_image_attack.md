@@ -47,7 +47,7 @@ _Visiting_ this URL will execute the XSS payload and we get a **Flag**!
 
 ## Recommendations:
 
-1. Impliment proper input _validation_ and _sanitization_ for the `src` parameter.
+1. Implement proper input _validation_ and _sanitization_ for the `src` parameter.
 
 2. Use [_Content Security Policy (CSP)_](https://portswigger.net/web-security/cross-site-scripting/content-security-policy) headers to restrict executable content.
 

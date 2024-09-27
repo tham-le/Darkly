@@ -20,6 +20,6 @@ It possible to encrypt ```true``` in MD5 and set it as the value of this cookie.
 
 1. Move sensitive cookies like "I_am_admin" to server-side storage.
 
-2. Replace cookie-based authentication with a more secure metod, such as token-based authentication.
+2. Replace cookie-based authentication with a more secure method, such as token-based authentication.
 
 3. Ensure all sensitive data is properly encrypted both at rest and in transit.
